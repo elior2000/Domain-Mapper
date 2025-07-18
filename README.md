@@ -1,4 +1,3 @@
-
 # Domain-Mapper
 
 Automated Bash script for Active Directory and network domain reconnaissance, enumeration, and reporting.  
@@ -77,14 +76,14 @@ sudo ./Domain\ Mapper.sh
 
 ## Author
 
-Elior Salimi  
-[GitHub profile](https://github.com/elior2000)
+[Elior Salimi](https://github.com/elior2000)  
+[LinkedIn](https://www.linkedin.com/in/elior-salimi-145aaa260/)
 
 ---
 
 ## License
 
-This project is released under the MIT License.  
+This project is for educational and research purposes only.
 
 ---
 
